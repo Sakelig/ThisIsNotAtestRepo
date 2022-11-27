@@ -1,5 +1,7 @@
 [![Java CI with Maven](https://github.com/sakelig/ThisIsNotAtestRepo/actions/workflows/main.yml/badge.svg)](https://github.com/sakelig/ThisIsNotAtestRepo/actions/workflows/main.yml)
 
+test1
+
 # LAB - CI med GitHub actions 
 
 ## Litt om eksempel-appen
