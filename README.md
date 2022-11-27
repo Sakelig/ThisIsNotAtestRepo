@@ -1,3 +1,4 @@
+[![Maven-CI](https://github.com/sakelig/ThisIsNotAtestRepo/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/sakelig/ThisIsNotAtestRepo/actions/workflows/maven-ci.yml)
 
 # LAB - CI med GitHub actions 
 
